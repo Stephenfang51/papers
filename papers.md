@@ -15,6 +15,9 @@ Image recovery
 
 - [1806 Free Form Image Inpainting with Gated Convolution](https://arxiv.org/pdf/1806.03589)
 
+Object detection
+- [YoloV3 ASFF](https://arxiv.org/pdf/1911.09516v2.pdf) [[official code]](https://github.com/ruinmessi/ASFF)
+
 
 CNN
 - [EfficientNet](https://arxiv.org/pdf/1905.11946.pdf)
