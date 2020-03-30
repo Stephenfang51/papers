@@ -27,3 +27,5 @@ CNN
 - [Unet](https://arxiv.org/pdf/1505.04597.pdf)
 
 - [DLA Deep Layer Aggregation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_Deep_Layer_Aggregation_CVPR_2018_paper.pdf) [[official code]](https://github.com/ucbdrive/dla/blob/master/dla.py)
+
+- [Bag of Tricks for Image Classification with Convolutional Neural Networks](https://arxiv.org/pdf/1812.01187.pdf)
