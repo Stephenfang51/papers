@@ -11,6 +11,9 @@
 2. [imgaug](https://github.com/aleju/imgaug)
 
 
+模型转换及加速
+
+- onnx 官方实现 [onnx2tensorrt](https://github.com/onnx/onnx-tensorrt)
 
 
 #### FGVC(fine-grained visual categorization)
@@ -18,5 +21,7 @@
 - tensorflow实现 [assembled-cnn](https://github.com/clovaai/assembled-cnn)
 
 - 京东团队 torch实现 [JDAI-CV/DCL](https://github.com/JDAI-CV/DCL)
+
+
 
 
