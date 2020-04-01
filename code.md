@@ -4,6 +4,8 @@
 
 模型压缩 ： [model-compression](https://github.com/666DZY666/model-compression)
 
+可视化模型参数及每层输出 : [pytorch-summary](https://github.com/sksq96/pytorch-summary)
+
 数据增强 ：
 
 1. [albumentations](https://github.com/albumentations-team/albumentations)
