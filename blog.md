@@ -8,3 +8,5 @@
 [FLOPS, MAC, 提升网络运行速度与 ShuffleNet](https://zhuanlan.zhihu.com/p/67009992)
 
 [mobileNet, shuffleNet 综述](https://zhuanlan.zhihu.com/p/35405071)
+
+[总结2014~2018目标检测综述](https://zhuanlan.zhihu.com/p/38709522?utm_source=wechat_session&utm_medium=social&s_s_i=ZaxtG9xTWWj3uVPRWh4Qd%2FXanXkNPegjMrLOKAeWgO8%3D&s_r=1)
