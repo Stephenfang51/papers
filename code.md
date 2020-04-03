@@ -18,6 +18,11 @@
 - onnx 官方实现 [onnx2tensorrt](https://github.com/onnx/onnx-tensorrt)
 
 
+### 框架系列
+
+facebook 图像分类 ：[pycls](https://github.com/facebookresearch/pycls)
+
+
 #### FGVC(fine-grained visual categorization)
 
 - tensorflow实现 [assembled-cnn](https://github.com/clovaai/assembled-cnn)
