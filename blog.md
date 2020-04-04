@@ -22,5 +22,10 @@
 [mobileNet, shuffleNet 综述](https://zhuanlan.zhihu.com/p/35405071)
 
 
+分割
+
+[谈论Unet, 也说到哑铃形 encoder-decoder的结构重要性](https://zhuanlan.zhihu.com/p/44958351)
+
+
 
 
