@@ -10,6 +10,8 @@
 
 [Distance-intersection-Union DIoU](https://cloud.tencent.com/developer/article/1558533)
 
+[Yolov2的损失函数详解](https://mp.weixin.qq.com/s/UHSHdGL3GucmUozglmZESw)
+
 轻量网络
 
 [mobileNetv1 ~ v3 综述](https://zhuanlan.zhihu.com/p/70703846)
