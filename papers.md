@@ -34,3 +34,4 @@ CNN
 Loss
 
 - [GIoU](https://arxiv.org/pdf/1902.09630.pdf) [[official code]](https://github.com/generalized-iou/g-darknet)
+- [DIoU](https://arxiv.org/pdf/1911.08287.pdf) [[official code]](https://github.com/Zzh-tju/DIoU-darknet)
