@@ -29,3 +29,8 @@ CNN
 - [DLA Deep Layer Aggregation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_Deep_Layer_Aggregation_CVPR_2018_paper.pdf) [[official code]](https://github.com/ucbdrive/dla/blob/master/dla.py)
 
 - [Bag of Tricks for Image Classification with Convolutional Neural Networks](https://arxiv.org/pdf/1812.01187.pdf)
+
+
+Loss
+
+- [GIoU](https://arxiv.org/pdf/1902.09630.pdf) [[official code]](https://github.com/generalized-iou/g-darknet)
