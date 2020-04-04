@@ -1,6 +1,14 @@
 写的非常棒的blog
 
+目标检测
+
 [mAP (mean Average Precision) for Object Detection](https://medium.com/@jonathan_hui/map-mean-average-precision-for-object-detection-45c121a31173)
+
+[总结2014~2018目标检测综述](https://zhuanlan.zhihu.com/p/38709522?utm_source=wechat_session&utm_medium=social&s_s_i=ZaxtG9xTWWj3uVPRWh4Qd%2FXanXkNPegjMrLOKAeWgO8%3D&s_r=1)
+
+[generalized-intersection-Union GIoU](https://zhuanlan.zhihu.com/p/105852684)
+
+轻量网络
 
 [mobileNetv1 ~ v3 综述](https://zhuanlan.zhihu.com/p/70703846)
 
@@ -9,4 +17,6 @@
 
 [mobileNet, shuffleNet 综述](https://zhuanlan.zhihu.com/p/35405071)
 
-[总结2014~2018目标检测综述](https://zhuanlan.zhihu.com/p/38709522?utm_source=wechat_session&utm_medium=social&s_s_i=ZaxtG9xTWWj3uVPRWh4Qd%2FXanXkNPegjMrLOKAeWgO8%3D&s_r=1)
+
+
+
