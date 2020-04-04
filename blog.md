@@ -8,6 +8,8 @@
 
 [generalized-intersection-Union GIoU](https://zhuanlan.zhihu.com/p/105852684)
 
+[Distance-intersection-Union DIoU](https://cloud.tencent.com/developer/article/1558533)
+
 轻量网络
 
 [mobileNetv1 ~ v3 综述](https://zhuanlan.zhihu.com/p/70703846)
