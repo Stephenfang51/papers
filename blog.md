@@ -14,7 +14,7 @@
 
 [DCNv2 torch代码详解](https://zhuanlan.zhihu.com/p/102707081)
 
-[Yolov2的损失函数详解](https://mp.weixin.qq.com/s/UHSHdGL3GucmUozglmZESw)
+
 
 轻量网络
 
