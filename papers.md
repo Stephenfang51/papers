@@ -20,6 +20,8 @@ Object detection
 
 - [Bag of Freebies for Training Object Detection Neural Networks](https://arxiv.org/pdf/1902.04103.pdf)
 
+- [Region proposal by guided anchoring](https://arxiv.org/abs/1901.03278) [[official code]](https://github.com/open-mmlab/mmdetection/blob/8c86f74ca01ec4c46997915e878b2a6ac518ff6d/mmdet/models/anchor_heads/guided_anchor_head.py)
+
 
 CNN
 - [EfficientNet](https://arxiv.org/pdf/1905.11946.pdf)
@@ -31,6 +33,8 @@ CNN
 - [DLA Deep Layer Aggregation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_Deep_Layer_Aggregation_CVPR_2018_paper.pdf) [[official code]](https://github.com/ucbdrive/dla/blob/master/dla.py)
 
 - [Bag of Tricks for Image Classification with Convolutional Neural Networks](https://arxiv.org/pdf/1812.01187.pdf)
+
+- [Deformable ConvNets v2: More Deformable, Better Results DCNv2](https://arxiv.org/pdf/1811.11168.pdf) [[code]](https://github.com/CharlesShang/DCNv2)
 
 
 
