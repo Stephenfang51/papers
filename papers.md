@@ -16,6 +16,9 @@ Image recovery
 - [1806 Free Form Image Inpainting with Gated Convolution](https://arxiv.org/pdf/1806.03589)
 
 Object detection
+
+- [Receptive Field Block Net for Accurate and Fast Object Detection](https://arxiv.org/pdf/1711.07767.pdf) [[official code]](https://github.com/ruinmessi/RFBNet)
+
 - [YoloV3 ASFF](https://arxiv.org/pdf/1911.09516v2.pdf) [[official code]](https://github.com/ruinmessi/ASFF)
 
 - [Bag of Freebies for Training Object Detection Neural Networks](https://arxiv.org/pdf/1902.04103.pdf)
@@ -24,6 +27,9 @@ Object detection
 
 
 CNN
+
+
+
 - [EfficientNet](https://arxiv.org/pdf/1905.11946.pdf)
 
 - [MnasNet: Platform-Aware Neural Architecture Search for Mobile](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tan_MnasNet_Platform-Aware_Neural_Architecture_Search_for_Mobile_CVPR_2019_paper.pdf)
