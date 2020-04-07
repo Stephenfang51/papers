@@ -17,6 +17,9 @@
 [RFBNet讲解](https://zhuanlan.zhihu.com/p/48423441)
 
 
+多目标跟踪MOT
+
+[匈牙利算法理解](https://blog.csdn.net/dark_scope/article/details/8880547#commentBox)
 
 轻量网络
 
