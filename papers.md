@@ -26,7 +26,7 @@
 - [Region proposal by guided anchoring](https://arxiv.org/abs/1901.03278) [[official code]](https://github.com/open-mmlab/mmdetection/blob/8c86f74ca01ec4c46997915e878b2a6ac518ff6d/mmdet/models/anchor_heads/guided_anchor_head.py)
 
 
-#### Object tracking
+#### Multiple Object Tracking (MOT)
 
 - [Tracking Objects as Points CenterTrack](http://arxiv.org/abs/2004.01177) [[official code]](https://github.com/xingyizhou/CenterTrack)
 
