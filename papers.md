@@ -2,7 +2,7 @@
 ### Computer Vision and Pattern Recognition
 
 
-GAN
+#### GAN
 
 - [1909 Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis](https://arxiv.org/abs/1909.12224) [[official code]](https://github.com/svip-lab/impersonator)
 - [2003 Deep Image Spatial Transformation for Person Image Generation](https://arxiv.org/abs/2003.00696) [[official code]](https://github.com/RenYurui/Global-Flow-Local-Attention)
@@ -10,12 +10,12 @@ GAN
 
 
 
-Image recovery
+#### Image recovery
 
 
 - [1806 Free Form Image Inpainting with Gated Convolution](https://arxiv.org/pdf/1806.03589)
 
-Object detection
+#### Object detection
 
 - [Receptive Field Block Net for Accurate and Fast Object Detection](https://arxiv.org/pdf/1711.07767.pdf) [[official code]](https://github.com/ruinmessi/RFBNet)
 
@@ -26,7 +26,12 @@ Object detection
 - [Region proposal by guided anchoring](https://arxiv.org/abs/1901.03278) [[official code]](https://github.com/open-mmlab/mmdetection/blob/8c86f74ca01ec4c46997915e878b2a6ac518ff6d/mmdet/models/anchor_heads/guided_anchor_head.py)
 
 
-CNN
+#### Object tracking
+
+- [Tracking Objects as Points CenterTrack](http://arxiv.org/abs/2004.01177) [[official code]](https://github.com/xingyizhou/CenterTrack)
+
+
+#### CNN
 
 
 
@@ -44,7 +49,7 @@ CNN
 
 
 
-Loss
+#### Loss
 
 - [GIoU](https://arxiv.org/pdf/1902.09630.pdf) [[official code]](https://github.com/generalized-iou/g-darknet)
 - [DIoU](https://arxiv.org/pdf/1911.08287.pdf) [[official code]](https://github.com/Zzh-tju/DIoU-darknet)
