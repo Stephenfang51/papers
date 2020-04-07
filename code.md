@@ -22,6 +22,9 @@
 
 - facebook 图像分类 ：[pycls](https://github.com/facebookresearch/pycls)
 - 商汤 目标追踪 [pysot](https://github.com/STVIR/pysot)
+- deepsort torch 实现 [deepsort](https://github.com/ZQPei/deep_sort_pytorch)
+
+
 
 #### FGVC(fine-grained visual categorization)
 
