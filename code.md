@@ -21,7 +21,7 @@
 ### 框架系列
 
 - facebook 图像分类 ：[pycls](https://github.com/facebookresearch/pycls)
-
+- 商汤 目标追踪 [pysot](https://github.com/STVIR/pysot)
 
 #### FGVC(fine-grained visual categorization)
 
