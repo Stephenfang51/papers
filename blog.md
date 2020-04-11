@@ -1,5 +1,9 @@
 写的非常棒的blog
 
+CNN
+
+[CNN真的需要下采样吗？结合多个实验论证](https://zhuanlan.zhihu.com/p/94477174)
+
 目标检测
 
 [mAP (mean Average Precision) for Object Detection](https://medium.com/@jonathan_hui/map-mean-average-precision-for-object-detection-45c121a31173)
