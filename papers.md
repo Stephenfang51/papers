@@ -37,6 +37,7 @@
 
 - [EfficientNet](https://arxiv.org/pdf/1905.11946.pdf)
 
+
 - [MnasNet: Platform-Aware Neural Architecture Search for Mobile](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tan_MnasNet_Platform-Aware_Neural_Architecture_Search_for_Mobile_CVPR_2019_paper.pdf)
 
 - [Unet](https://arxiv.org/pdf/1505.04597.pdf)
@@ -46,6 +47,8 @@
 - [Bag of Tricks for Image Classification with Convolutional Neural Networks](https://arxiv.org/pdf/1812.01187.pdf)
 
 - [Deformable ConvNets v2: More Deformable, Better Results DCNv2](https://arxiv.org/pdf/1811.11168.pdf) [[code]](https://github.com/CharlesShang/DCNv2)
+
+- [ResNest](https://hangzhang.org/files/resnest.pdf) [[code]](https://github.com/zhanghang1989/ResNeSt)
 
 
 
