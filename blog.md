@@ -32,6 +32,8 @@ CNN
 
 [匈牙利与KM算法](https://zhuanlan.zhihu.com/p/62981901)
 
+[deepsort 论文理解](https://blog.csdn.net/sgfmby1994/article/details/98516905)
+
 轻量网络
 
 [mobileNetv1 ~ v3 综述](https://zhuanlan.zhihu.com/p/70703846)
