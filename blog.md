@@ -57,4 +57,6 @@ CNN
 
 [各种距离计算方法](http://blog.sciencenet.cn/blog-531885-589056.html)
 
+[euclidean-vs-cosine](https://cmry.github.io/notes/euclidean-v-cosine)
+
 
