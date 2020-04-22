@@ -33,6 +33,8 @@
 - [DeepSort](https://arxiv.org/pdf/1703.07402.pdf)[[official code]](https://github.com/nwojke/deep_sort) [[torch code]](https://github.com/ZQPei/deep_sort_pytorch)
 - [Tracking Objects as Points CenterTrack](http://arxiv.org/abs/2004.01177) [[official code]](https://github.com/xingyizhou/CenterTrack)
 
+- [Deep Cosine Metric Learning for Person Re-Identification](https://arxiv.org/pdf/1812.00442.pdf)
+
 
 #### CNN
 
