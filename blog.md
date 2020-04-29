@@ -56,6 +56,8 @@ CNN
 
 [ORB关键点检测](https://www.jianshu.com/p/9ee6b2145eaa)
 
+[数字图像处理:边缘检测(Edge detection)](https://zhuanlan.zhihu.com/p/59640437)
+
 
 
 数学
