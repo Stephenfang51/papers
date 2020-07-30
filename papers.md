@@ -55,6 +55,8 @@
 
 - [ResNest](https://hangzhang.org/files/resnest.pdf) [[code]](https://github.com/zhanghang1989/ResNeSt)
 
+- [CSPNet 减少CNN计算量](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w28/Wang_CSPNet_A_New_Backbone_That_Can_Enhance_Learning_Capability_of_CVPRW_2020_paper.pdf)
+
 
 
 #### Loss
