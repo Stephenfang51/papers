@@ -23,6 +23,8 @@
 - facebook 图像分类 ：[pycls](https://github.com/facebookresearch/pycls)
 - 商汤 目标追踪 [pysot](https://github.com/STVIR/pysot)
 - deepsort torch 实现 [deepsort](https://github.com/ZQPei/deep_sort_pytorch)
+- tkDNN 实现TensorRT 加速yolo, centerNet ...etc [tkDNN](https://github.com/ceccocats/tkDNN)
+- CaoWGG/TensorRT-yolov4 [https://github.com/CaoWGG/TensorRT-YOLOv4](https://github.com/CaoWGG/TensorRT-YOLOv4)
 
 
 
