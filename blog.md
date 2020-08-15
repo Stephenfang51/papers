@@ -1,5 +1,9 @@
 写的非常棒的blog
 
+
+C++
+[modern-cpp](https://github.com/changkun/modern-cpp-tutorial)
+
 CNN
 
 [CNN真的需要下采样吗？结合多个实验论证](https://zhuanlan.zhihu.com/p/94477174)
