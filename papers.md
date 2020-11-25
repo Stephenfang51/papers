@@ -59,7 +59,7 @@
 
 #### Image restoration
 - [Dual Residual Networks Leveraging the Potential of Paired Operations
-for Image Restoration](https://arxiv.org/pdf/1903.08817.pdf) [[official code]](https://github.com/liu-vis/DualResidualNetowrks)
+for Image Restoration](https://arxiv.org/pdf/1903.08817.pdf) [[official code]](https://github.com/liu-vis/DualResidualNetoworks)
 
 
 #### Dehaze
