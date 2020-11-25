@@ -60,7 +60,9 @@
 
 #### Dehaze
 - [MSBDN-DFF](https://arxiv.org/abs/2004.13388) [[official code]](https://github.com/BookerDeWitt/MSBDN-DFF)
+- [AODNet All in One Dehazing Network]] htttps://openaccess.thecvf.com/content_ICCV_2017/papers/Li_AOD-Net_All-In-One_Dehazing_ICCV_2017_paper.pdf)[[code]](https://github.com/MayankSingal/PyTorch-Image-Dehazing)
 - [Benchmarking Single Image Dehazing and Beyond](https://arxiv.org/pdf/1712.04143.pdf) 
+
 
 #### DeRain
 - [Progressive Image Deraining Networks: A Better and Simpler Baseline](https://arxiv.org/pdf/1901.09221.pdf)[[official code]](https://github.com/csdwren/PReNet)
