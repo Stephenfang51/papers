@@ -6,6 +6,8 @@
 
 - 可视化模型参数及每层输出 : [pytorch-summary](https://github.com/sksq96/pytorch-summary)
 
+- 可视化模模型参数及每层输出 : [pytorchsummaryX](https://github.com/nmhkahn/torchsummaryX)
+
 ### 数据增强 ：
 
 - [albumentations](https://github.com/albumentations-team/albumentations)
