@@ -58,6 +58,12 @@
 - [CSPNet 减少CNN计算量](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w28/Wang_CSPNet_A_New_Backbone_That_Can_Enhance_Learning_Capability_of_CVPRW_2020_paper.pdf)
 
 
+#### Dehaze
+- [MSBDN-DFF](https://arxiv.org/abs/2004.13388) [[official code]](https://github.com/BookerDeWitt/MSBDN-DFF)
+- [Benchmarking Single Image Dehazing and Beyond](https://arxiv.org/pdf/1712.04143.pdf) 
+
+#### DeRain
+- [Progressive Image Deraining Networks: A Better and Simpler Baseline](https://arxiv.org/pdf/1901.09221.pdf)[[official code]](https://github.com/csdwren/PReNet)
 
 #### Loss
 
