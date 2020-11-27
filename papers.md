@@ -71,7 +71,11 @@ for Image Restoration](https://arxiv.org/pdf/1903.08817.pdf) [[official code]](h
 #### DeRain
 - [Progressive Image Deraining Networks: A Better and Simpler Baseline](https://arxiv.org/pdf/1901.09221.pdf)[[official code]](https://github.com/csdwren/PReNet)
 
-#### Loss
+#### Raindrop
+-[Attentive Generative Adversarial Network for Raindrop Removal from a Single Image
+](https://arxiv.org/abs/1711.10098) [[official_code]](https://github.com/rui1996/DeRaindrop)
 
+#### Loss
+https://arxiv.org/abs/1711.10098
 - [GIoU](https://arxiv.org/pdf/1902.09630.pdf) [[official code]](https://github.com/generalized-iou/g-darknet)
 - [DIoU](https://arxiv.org/pdf/1911.08287.pdf) [[official code]](https://github.com/Zzh-tju/DIoU-darknet)
