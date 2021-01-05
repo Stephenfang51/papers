@@ -14,6 +14,8 @@
 
 - [imgaug](https://github.com/aleju/imgaug)
 
+### CNN可视化
+- [pytorch-cnn-visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
 
 ### 模型转换及加速
 
