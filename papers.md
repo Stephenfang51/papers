@@ -57,6 +57,10 @@
 
 - [CSPNet 减少CNN计算量](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w28/Wang_CSPNet_A_New_Backbone_That_Can_Enhance_Learning_Capability_of_CVPRW_2020_paper.pdf)
 
+#### Transformer 
+
+- [实时更新的CV类应用transformer](https://github.com/dk-liang/Awesome-Visual-Transformer)
+
 #### Image restoration
 - [Dual Residual Networks Leveraging the Potential of Paired Operations
 for Image Restoration](https://arxiv.org/pdf/1903.08817.pdf) [[official code]](https://github.com/liu-vis/DualResidualNetoworks)
