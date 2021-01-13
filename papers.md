@@ -6,8 +6,8 @@
 
 - [1909 Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis](https://arxiv.org/abs/1909.12224) [[official code]](https://github.com/svip-lab/impersonator)
 - [2003 Deep Image Spatial Transformation for Person Image Generation](https://arxiv.org/abs/2003.00696) [[official code]](https://github.com/RenYurui/Global-Flow-Local-Attention)
-
-
+- [2006 Differentiable Augmentation
+for Data-Efficient GAN Training](https://arxiv.org/pdf/2006.10738.pdf) [[official code]](https://github.com/mit-han-lab/data-efficient-gans)
 
 
 #### Image recovery
