@@ -57,6 +57,8 @@ for Data-Efficient GAN Training](https://arxiv.org/pdf/2006.10738.pdf) [[officia
 
 - [CSPNet 减少CNN计算量](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w28/Wang_CSPNet_A_New_Backbone_That_Can_Enhance_Learning_Capability_of_CVPRW_2020_paper.pdf)
 
+- [Softpool](https://arxiv.org/pdf/2101.00440.pdf)[[official code]](https://github.com/alexandrosstergiou/SoftPool)
+
 #### Transformer 
 
 - [实时更新的CV类应用transformer](https://github.com/dk-liang/Awesome-Visual-Transformer)
