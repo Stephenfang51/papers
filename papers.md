@@ -59,6 +59,8 @@ for Data-Efficient GAN Training](https://arxiv.org/pdf/2006.10738.pdf) [[officia
 
 - [Softpool](https://arxiv.org/pdf/2101.00440.pdf)[[official code]](https://github.com/alexandrosstergiou/SoftPool)
 
+- [RepVGG ](https://arxiv.org/abs/2101.03697)[[official code]](https://github.com/DingXiaoH/RepVGG)[解析](https://zhuanlan.zhihu.com/p/344324470)
+
 #### Transformer 
 
 - [实时更新的CV类应用transformer](https://github.com/dk-liang/Awesome-Visual-Transformer)
