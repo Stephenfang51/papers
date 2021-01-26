@@ -8,6 +8,8 @@
 
 - 可视化模模型参数及每层输出 : [pytorchsummaryX](https://github.com/nmhkahn/torchsummaryX)
 
+- 数据标注 : [supperanootate](https://github.com/opencv-ai/superannotate)
+
 ### 数据增强 ：
 
 - [albumentations](https://github.com/albumentations-team/albumentations)
