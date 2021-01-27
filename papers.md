@@ -26,6 +26,11 @@ for Data-Efficient GAN Training](https://arxiv.org/pdf/2006.10738.pdf) [[officia
 - [Region proposal by guided anchoring](https://arxiv.org/abs/1901.03278) [[official code]](https://github.com/open-mmlab/mmdetection/blob/8c86f74ca01ec4c46997915e878b2a6ac518ff6d/mmdet/models/anchor_heads/guided_anchor_head.py)
 
 
+#### Video Understanding 视频理解
+
+#### Action recognition 动作识别
+
+
 #### Multiple Object Tracking (MOT)
 
 - [SIMPLE ONLINE AND REALTIME TRACKING SORT](http://arxiv.org/pdf/1602.00763.pdf) [[official code]](https://github.com/abewley/sort)
