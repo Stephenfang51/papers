@@ -28,7 +28,11 @@ for Data-Efficient GAN Training](https://arxiv.org/pdf/2006.10738.pdf) [[officia
 
 #### Video Understanding 视频理解
 
-- 待新增
+- [FacebookResearch - PySlowFast Code](https://github.com/facebookresearch/SlowFast)
+  - [SlowFast Networks for Video Recognition](https://arxiv.org/abs/1812.03982)
+  - [Non-local Neural Networks](https://arxiv.org/abs/1711.07971)
+  - [A Multigrid Method for Efficiently Training Video Models](https://arxiv.org/abs/1912.00998)
+  - [X3D: Progressive Network Expansion for Efficient Video Recognition](https://arxiv.org/abs/2004.04730)
 
 #### Action recognition 动作识别
 
