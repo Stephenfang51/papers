@@ -73,3 +73,5 @@ CNN
 [euclidean-vs-cosine](https://cmry.github.io/notes/euclidean-v-cosine)
 
 
+transformer on CV
+[Non-local模块与Self-attention的之间的关系与区别？](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247497334&idx=5&sn=d0039bf9698b4b78cb6acc24016cabcc&chksm=f9a184f9ced60def6f32b7ccd5f2801e030475a63b7c9b71b672c0a9f0e6071b18ac24b9eecb&scene=21#wechat_redirect)
