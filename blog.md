@@ -54,6 +54,7 @@ CNN
 
 [谈论Unet, 也说到哑铃形 encoder-decoder的结构重要性](https://zhuanlan.zhihu.com/p/44958351)
 
+[语义分割的评价指标——IoU](https://blog.csdn.net/lingzhou33/article/details/87901365)
 
 
 传统图像算法
