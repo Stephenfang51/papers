@@ -56,6 +56,8 @@ CNN
 
 [语义分割的评价指标——IoU](https://blog.csdn.net/lingzhou33/article/details/87901365)
 
+[语义分割】评价指标：PA、CPA、MPA、IoU、MIoU详细总结和代码实现（零基础从入门到精通系列！）](https://blog.csdn.net/sinat_29047129/article/details/103642140?utm_medium=distribute.pc_relevant.none-task-blog-title-5&spm=1001.2101.3001.4242)
+
 
 传统图像算法
 
