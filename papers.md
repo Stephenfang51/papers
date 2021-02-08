@@ -49,6 +49,9 @@ for Data-Efficient GAN Training](https://arxiv.org/pdf/2006.10738.pdf) [[officia
 
 #### CNN
 
+#### FaceNet
+- ["FaceNet: A Unified Embedding for Face Recognition and Clustering".](https://arxiv.org/abs/1503.03832)
+
 
 
 - [EfficientNet](https://arxiv.org/pdf/1905.11946.pdf)
