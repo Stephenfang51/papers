@@ -59,6 +59,9 @@ CNN
 [语义分割】评价指标：PA、CPA、MPA、IoU、MIoU详细总结和代码实现（零基础从入门到精通系列！）](https://blog.csdn.net/sinat_29047129/article/details/103642140?utm_medium=distribute.pc_relevant.none-task-blog-title-5&spm=1001.2101.3001.4242)
 
 
+loss 损失函数
+[arcface损失 应用分类识别_ArcFace，CosFace，SphereFace，三种人脸识别算法的损失函数(Loss Function)的设计](https://blog.csdn.net/weixin_29137489/article/details/112331605)
+
 传统图像算法
 
 [ORB关键点检测](https://www.jianshu.com/p/9ee6b2145eaa)
