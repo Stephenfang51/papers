@@ -33,6 +33,8 @@ for Data-Efficient GAN Training](https://arxiv.org/pdf/2006.10738.pdf) [[officia
 
 - [YOLACT EDGE](https://arxiv.org/abs/2012.12259)[[official code]](https://github.com/haotian-liu/yolact_edge)
 
+- [SOLOv2](https://arxiv.org/abs/2003.10152)[[official code]](https://github.com/WXinlong/SOLO)
+
 
 
 #### Video Understanding 视频理解
