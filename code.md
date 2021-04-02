@@ -19,18 +19,20 @@
 ### CNN可视化
 - [pytorch-cnn-visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
 
+
 ### 模型转换及加速
 
 - onnx 官方实现 [onnx2tensorrt](https://github.com/onnx/onnx-tensorrt)
-
+- tensorrtx 用tensorRT API直接搭建网路层[tensorrtx](https://github.com/wang-xinyu/tensorrtx)
+- tkDNN 实现TensorRT 加速yolo, centerNet ...etc [tkDNN](https://github.com/ceccocats/tkDNN)
+- CaoWGG/TensorRT-yolov4 [https://github.com/CaoWGG/TensorRT-YOLOv4](https://github.com/CaoWGG/TensorRT-YOLOv4)
 
 ### 框架系列
 
 - facebook 图像分类 ：[pycls](https://github.com/facebookresearch/pycls)
 - 商汤 目标追踪 [pysot](https://github.com/STVIR/pysot)
 - deepsort torch 实现 [deepsort](https://github.com/ZQPei/deep_sort_pytorch)
-- tkDNN 实现TensorRT 加速yolo, centerNet ...etc [tkDNN](https://github.com/ceccocats/tkDNN)
-- CaoWGG/TensorRT-yolov4 [https://github.com/CaoWGG/TensorRT-YOLOv4](https://github.com/CaoWGG/TensorRT-YOLOv4)
+
 
 
 
