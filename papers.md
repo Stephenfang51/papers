@@ -26,6 +26,15 @@ for Data-Efficient GAN Training](https://arxiv.org/pdf/2006.10738.pdf) [[officia
 - [Region proposal by guided anchoring](https://arxiv.org/abs/1901.03278) [[official code]](https://github.com/open-mmlab/mmdetection/blob/8c86f74ca01ec4c46997915e878b2a6ac518ff6d/mmdet/models/anchor_heads/guided_anchor_head.py)
 
 
+#### Instance Segmentation
+
+- [YOLACT++](https://arxiv.org/abs/1912.062189)[[official code]](https://github.com/dbolya/yolact)
+
+
+- [YOLACT EDGE](https://arxiv.org/abs/2012.12259)[[official code]](https://github.com/haotian-liu/yolact_edge)
+
+
+
 #### Video Understanding 视频理解
 
 - [FacebookResearch - PySlowFast Code](https://github.com/facebookresearch/SlowFast)
