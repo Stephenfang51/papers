@@ -16,6 +16,8 @@
 
 - [imgaug](https://github.com/aleju/imgaug)
 
+- [awesome-data-augmentation](https://github.com/CrazyVertigo/awesome-data-augmentation)
+
 ### CNN可视化
 - [pytorch-cnn-visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
 
