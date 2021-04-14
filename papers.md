@@ -25,6 +25,10 @@ for Data-Efficient GAN Training](https://arxiv.org/pdf/2006.10738.pdf) [[officia
 
 - [Region proposal by guided anchoring](https://arxiv.org/abs/1901.03278) [[official code]](https://github.com/open-mmlab/mmdetection/blob/8c86f74ca01ec4c46997915e878b2a6ac518ff6d/mmdet/models/anchor_heads/guided_anchor_head.py)
 
+#### Semantic Segmentation
+
+- [HRNet semantic]()[[official code]](https://github.com/HRNet/HRNet-Semantic-Segmentation/tree/pytorch-v1.1)
+
 
 #### Instance Segmentation
 
@@ -35,7 +39,13 @@ for Data-Efficient GAN Training](https://arxiv.org/pdf/2006.10738.pdf) [[officia
 
 - [SOLOv2](https://arxiv.org/abs/2003.10152)[[official code]](https://github.com/WXinlong/SOLO)
 
+#### Pose Estimation
 
+- [AlphaPose]()[[official code]](https://github.com/MVIG-SJTU/AlphaPose)
+
+- [Higher HRNet for bottom-up human key point](https://arxiv.org/abs/1908.10357)[[offcial code]](https://github.com/HRNet/HigherHRNet-Human-Pose-Estimation)
+ 
+- [disentangled keypoint regression DEKR]()[[official code]](https://github.com/HRNet/DEKR)
 
 #### Video Understanding 视频理解
 
@@ -48,6 +58,7 @@ for Data-Efficient GAN Training](https://arxiv.org/pdf/2006.10738.pdf) [[officia
 #### Action recognition 动作识别
 
 - 待新增
+
 #### Multiple Object Tracking (MOT)
 
 - [SIMPLE ONLINE AND REALTIME TRACKING SORT](http://arxiv.org/pdf/1602.00763.pdf) [[official code]](https://github.com/abewley/sort)
