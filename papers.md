@@ -47,6 +47,8 @@ for Data-Efficient GAN Training](https://arxiv.org/pdf/2006.10738.pdf) [[officia
  
 - [disentangled keypoint regression DEKR]()[[official code]](https://github.com/HRNet/DEKR)
 
+- [lite-HRNet]()[[official code]](https://github.com/HRNet/Lite-HRNet)
+
 #### Video Understanding 视频理解
 
 - [FacebookResearch - PySlowFast Code](https://github.com/facebookresearch/SlowFast)
