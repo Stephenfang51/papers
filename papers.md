@@ -105,6 +105,9 @@ for Data-Efficient GAN Training](https://arxiv.org/pdf/2006.10738.pdf) [[officia
 - [Dual Residual Networks Leveraging the Potential of Paired Operations
 for Image Restoration](https://arxiv.org/pdf/1903.08817.pdf) [[official code]](https://github.com/liu-vis/DualResidualNetoworks)
 
+#### model pruning
+- [PRUNING FILTERS FOR EFFICIENT CONVNETS](https://arxiv.org/pdf/1608.08710.pdf)[[unofficial code]](https://github.com/VainF/Torch-Pruning)
+
 
 #### Dehaze
 - [MSBDN-DFF](https://arxiv.org/abs/2004.13388) [[official code]](https://github.com/BookerDeWitt/MSBDN-DFF)
