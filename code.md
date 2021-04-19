@@ -22,6 +22,10 @@
 - [pytorch-cnn-visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
 
 
+#### 模型剪枝 model pruning
+- [Torch-Pruning](https://github.com/VainF/Torch-Pruning)
+
+
 ### 模型转换及加速
 
 - onnx 官方实现 [onnx2tensorrt](https://github.com/onnx/onnx-tensorrt)
