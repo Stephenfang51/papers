@@ -1,5 +1,7 @@
 写的非常棒的blog
 
+pytorch
+[How to use hooks](https://medium.com/the-dl/how-to-use-pytorch-hooks-5041d777f904)
 
 C++
 [modern-cpp](https://github.com/changkun/modern-cpp-tutorial)
