@@ -10,6 +10,8 @@
 
 - 数据标注 : [supperanootate](https://github.com/opencv-ai/superannotate)
 
+- Python-for-Scientists(通整所有好用的python工具) : [Python-for-Scientists](https://github.com/TomNicholas/Python-for-Scientists)
+
 ### 数据增强 ：
 
 - [albumentations](https://github.com/albumentations-team/albumentations)
