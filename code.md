@@ -41,8 +41,7 @@
 - 商汤 目标追踪 [pysot](https://github.com/STVIR/pysot)
 - deepsort torch 实现 [deepsort](https://github.com/ZQPei/deep_sort_pytorch)
 - mmediting [mmediting](https://github.com/open-mmlab/mmediting)
-
-
+- VIT [vision transformer](https://github.com/lucidrains/vit-pytorch)
 
 
 #### FGVC(fine-grained visual categorization)
