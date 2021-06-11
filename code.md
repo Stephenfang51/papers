@@ -12,6 +12,8 @@
 
 - Python-for-Scientists(通整所有好用的python工具) : [Python-for-Scientists](https://github.com/TomNicholas/Python-for-Scientists)
 
+- einops 简单化矩阵操作 https://github.com/arogozhnikov/einops
+
 ### 数据增强 ：
 
 - [albumentations](https://github.com/albumentations-team/albumentations)
